@@ -1,0 +1,17 @@
+nav > ul > li {
+    display: inline;
+    margin-right: 20px;
+}
+nav li > a{text-decoration: none;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
